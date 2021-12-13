@@ -1,0 +1,17 @@
+{
+  "name": "epsagon-python",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@semantic-release/exec": "^3.3.2",
+    "semantic-release": "^17.4.7",
+    "serverless": "^2.60.0",
+    "serverless-python-requirements": "^4.3.0"
+  }
+}
